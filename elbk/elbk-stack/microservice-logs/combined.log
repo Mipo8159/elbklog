@@ -1,0 +1,2 @@
+{"buildInfo":{"nodeVersion":"v20.10.0"},"level":"info","message":"Info from file","service":"filebeat-file","timestamp":"2024-03-24T22:06:27.671Z"}
+{"buildInfo":{"nodeVersion":"v20.10.0"},"level":"error","message":"Error from file","service":"filebeat-file","timestamp":"2024-03-24T22:06:27.672Z"}

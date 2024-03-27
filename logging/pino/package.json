@@ -1,0 +1,10 @@
+{
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "pino": "8.18.0",
+        "pino-pretty": "10.3.1"
+    }
+}
